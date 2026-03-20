@@ -1,2 +1,3 @@
-# next-recipe-manager-4dit
-A recipe management application for modern development workflows
+# Next Recipe Manager 4Dit
+
+A recipe management application for modern development workflows.
